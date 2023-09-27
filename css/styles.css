@@ -78,7 +78,7 @@ body {
     opacity: 80%;
     position: absolute;
     left: 35rem;
-    bottom: 0rem;
+    bottom: -100px;
 }
 
 .home-content h1{
